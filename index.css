@@ -1,0 +1,22 @@
+.demo-card-wide.mdl-card {
+  width: 100%;
+}
+.demo-card-wide > .mdl-card__title {
+  color: #fff;
+  height: 300px;
+  background: url('https://sun9-1.userapi.com/impf/TcDDVqZBOoq8spidmluEjhqmmo0poVofGKnhlw/_zVbvAaXLMk.jpg?size=1920x768&quality=95&crop=509,0,1001,400&sign=ed9e063e68d14195d985627e28526c77&type=cover_group')
+    center / cover;
+}
+.demo-card-wide > .mdl-card__menu {
+  color: #fff;
+}
+
+.demo-card-square.mdl-card {
+  width: 100%;
+  height: 320px;
+}
+.demo-card-square > .mdl-card__title {
+  color: #fff;
+  background: url('https://img.thinkfirsttahoe.org/img/imag-2020/2288/tayskiy-ridzhbek-58F760.jpg')
+    center / cover no-repeat #46b6ac;
+}
